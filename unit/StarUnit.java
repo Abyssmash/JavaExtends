@@ -16,5 +16,4 @@ public class StarUnit {
 		// TODO Auto-generated method stub
 		return super.toString();
 	}
-	
 }
